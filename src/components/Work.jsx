@@ -24,13 +24,13 @@ function Work() {
                     {/*Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
-                            React JS Application
+                            JS Application
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href='/'>
+                            <a href='https://jrj-sys.github.io/PokeHunt/'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href='/'>
+                            <a href='https://github.com/StebbiO/PokeHunt'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
@@ -44,13 +44,13 @@ function Work() {
                     {/*Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
-                            React JS Application
+                            Node Application
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href='/'>
+                            <a href='https://cryptic-taiga-66100.herokuapp.com/'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href='/'>
+                            <a href='https://github.com/StebbiO/books-of-alexandria'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
@@ -67,10 +67,10 @@ function Work() {
                             React JS Application
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href='/'>
+                            <a href='https://stark-tor-14116.herokuapp.com/'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href='/'>
+                            <a href='https://github.com/vicengs/video-game-e-commerce'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
