@@ -47,7 +47,7 @@ function Work() {
                             Node Application
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href='https://cryptic-taiga-66100.herokuapp.com/'>
+                            <a href='https://radiant-stream-15966.herokuapp.com/'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
                             <a href='https://github.com/StebbiO/books-of-alexandria'>
@@ -67,10 +67,10 @@ function Work() {
                             React JS Application
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href='https://stark-tor-14116.herokuapp.com/'>
+                            <a href='https://boiling-garden-84688.herokuapp.com/'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href='https://github.com/vicengs/video-game-e-commerce'>
+                            <a href='https://github.com/StebbiO/video-game-ecommerce'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
