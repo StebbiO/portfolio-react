@@ -1,10 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio-react/static/css/main.4363ce52.css",
-    "main.js": "/portfolio-react/static/js/main.9170c1ce.js",
+    "main.js": "/portfolio-react/static/js/main.0d5c533a.js",
     "static/media/video-game.jpg": "/portfolio-react/static/media/video-game.4a217c5935c0444150d6.jpg",
     "static/media/pokehunt.png": "/portfolio-react/static/media/pokehunt.0ecef4c6149c89710a72.png",
     "static/media/books.jpg": "/portfolio-react/static/media/books.9f456170e6221dbf7f91.jpg",
+    "static/media/pizza.jpg": "/portfolio-react/static/media/pizza.251778d8ecfd47de2fe8.jpg",
+    "static/media/tech-blog.jpg": "/portfolio-react/static/media/tech-blog.112e88f2dcce3df0381b.jpg",
+    "static/media/thoughts.jpg": "/portfolio-react/static/media/thoughts.b34c10916bb005750af9.jpg",
     "static/media/logo.png": "/portfolio-react/static/media/logo.8ab9d467a5b004db76f7.png",
     "static/media/react.png": "/portfolio-react/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/portfolio-react/static/media/node.952a9ea986dcfa5229ad.png",
@@ -16,10 +19,10 @@
     "static/media/javascript.png": "/portfolio-react/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio-react/index.html",
     "main.4363ce52.css.map": "/portfolio-react/static/css/main.4363ce52.css.map",
-    "main.9170c1ce.js.map": "/portfolio-react/static/js/main.9170c1ce.js.map"
+    "main.0d5c533a.js.map": "/portfolio-react/static/js/main.0d5c533a.js.map"
   },
   "entrypoints": [
     "static/css/main.4363ce52.css",
-    "static/js/main.9170c1ce.js"
+    "static/js/main.0d5c533a.js"
   ]
 }
